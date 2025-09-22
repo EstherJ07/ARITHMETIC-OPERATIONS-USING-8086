@@ -57,15 +57,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 2000 = 12               | 2004 = 24                |
+| 2001 = 34               | 2005 = 68                |
+| 2002 = 12               |                          |
+| 2003 = 34               |                          |
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+![manual1](https://github.com/user-attachments/assets/882c6b7b-b8cb-4cf0-ba25-3345401e8e98)
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+![output1](https://github.com/user-attachments/assets/5c33a9bf-e979-478d-afc6-cad7a1dcd89a)
 
 ## 2. SUBTRACTION
 
@@ -108,16 +110,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 2000 = 56               | 2004 = 44                |
+| 2001 = 78               | 2005 = 31                |
+| 2002 = 25               |                          |
+| 2003 = 34               |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
-
----
-
+![manual2](https://github.com/user-attachments/assets/ac1160ef-7797-4ce3-977c-b6e1be8a0c42)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![output2](https://github.com/user-attachments/assets/40c71495-452b-4c21-a00a-039162e90c2c)
 
 ## 3. MULTIPLICATION
 
@@ -157,15 +159,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000 = 12              | 2004 = 90                |
+|  2001 = 34              | 2005 = 5A                |
+|  2002 = 12              |                          |
+|  2003 = 34              |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
-
----
+![manual3](https://github.com/user-attachments/assets/7eb595fb-8d60-4fc8-9eba-7696cd1e4529)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![output3](https://github.com/user-attachments/assets/067bc4c4-c4d8-4a44-8f91-1c271c30a242)
 
 ## 4. DIVISION
 
@@ -202,15 +205,16 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+| 2000 = 68               | 2004 = 02                |
+| 2001 = 24               | 2005 = 00                |
+| 2002 = 34               |                          |
+| 2003 = 11               |                          |
 
 #### Manual Calculations
+![manual4](https://github.com/user-attachments/assets/a97c86b6-7e30-4180-93f4-c8fcf20f6fc2)
 
-(Add your calculation here)
-
----
 ## OUTPUT FROM MASM SOFTWARE
-
+![output4](https://github.com/user-attachments/assets/6129a359-27e4-4727-8376-735c41d8d1ff)
 
 
 ## RESULT
