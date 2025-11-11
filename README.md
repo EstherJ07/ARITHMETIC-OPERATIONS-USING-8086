@@ -245,7 +245,6 @@ END
 |  2006                   |   02                     |
 
 #### Manual Calculations
-
 <img width="1466" height="863" alt="image" src="https://github.com/user-attachments/assets/b24ddefb-6743-4f91-a5cf-50869438bd02" />
 
 
